@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "PUBG mobile live stream",
+      "description": "ex-pubg pro playes after a year and explain changes",
+      "userId": "made by Streamy team",
+      "id": 1
+    },
+    {
+      "title": "Live Coading Stream",
+      "description": "react and redux => creating a clone of twitch.tv",
+      "userId": "115077132856188082899",
+      "id": 2
+    },
+    {
+      "title": "Clash royale live ",
+      "description": "clash royale is game by supercell where 2 opponent plays against each other, which ever destroys the more tower of opponent win the game",
+      "userId": "115077132856188082899",
+      "id": 3
+    },
+    {
+      "title": "Baking a Cake",
+      "description": "we are baking a cake and join to learn",
+      "userId": "115061830409159306335",
+      "id": 5
+    },
+    {
+      "title": "Late night stream bruh...",
+      "description": "its 23:39 and i am still trying to figure out stuff here and there...",
+      "userId": "115077132856188082899",
+      "id": 6
+    }
+  ]
+}
